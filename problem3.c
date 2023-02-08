@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    printf("Hai Junaid, You better study in the morning..... :p ß\n");
+    printf("prash is # \n");
     return 0;
 }
